@@ -1,0 +1,26 @@
+body {
+    font-family: verdana;
+}
+
+td {
+    text-align: center;
+    border: #1B4242 2px solid;
+    background-color: #9EC8B9;
+    color: white;
+    width: 125px;
+    height: 25px;
+    font-weight: bold;
+}
+
+.picture {
+    height: 65px;
+}
+
+#checkbox {
+    height: 20px;
+    width: 20px;
+}
+
+span {
+    font-size: 25px;
+}
